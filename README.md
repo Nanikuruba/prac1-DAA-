@@ -61,3 +61,22 @@ The Knapsack algorithm helps in making the best selection under a given capacity
 ### Conclusion
 
 The Coin Change algorithm using Dynamic Programming provides an efficient way to solve the minimum coin problem. It reduces repeated calculations and is useful in currency systems and other optimization problems.
+
+
+practical-8
+###Summary
+A graph is a data structure made up of vertices (nodes) and edges (connections). In Python, a graph can be implemented using a dictionary or an adjacency list.
+
+BFS (Breadth-First Search) visits nodes level by level and uses a queue.
+
+DFS (Depth-First Search) visits nodes by going as deep as possible and uses recursion or a stack.
+
+Both BFS and DFS are commonly used for graph traversal and searching.
+
+The time complexity of both BFS and DFS is O(V + E), where V is the number of vertices and E is the number of edges.
+
+###Conclusion
+Graph implementation provides an efficient way to represent relationships between different nodes. BFS and DFS are important algorithms for traversing and searching graphs. BFS is useful for level-wise traversal and finding shortest paths in unweighted graphs, while DFS is useful for exploring paths and solving problems such as connectivity and backtracking.
+
+
+
