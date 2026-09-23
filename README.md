@@ -63,7 +63,7 @@ The Knapsack algorithm helps in making the best selection under a given capacity
 The Coin Change algorithm using Dynamic Programming provides an efficient way to solve the minimum coin problem. It reduces repeated calculations and is useful in currency systems and other optimization problems.
 
 
-practical-8
+# PRAC-8
 ###Summary
 A graph is a data structure made up of vertices (nodes) and edges (connections). In Python, a graph can be implemented using a dictionary or an adjacency list.
 
