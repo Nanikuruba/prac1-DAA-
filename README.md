@@ -64,7 +64,8 @@ The Coin Change algorithm using Dynamic Programming provides an efficient way to
 
 
 # PRAC-8
-###Summary
+###  summary
+
 A graph is a data structure made up of vertices (nodes) and edges (connections). In Python, a graph can be implemented using a dictionary or an adjacency list.
 
 BFS (Breadth-First Search) visits nodes level by level and uses a queue.
@@ -73,9 +74,10 @@ DFS (Depth-First Search) visits nodes by going as deep as possible and uses recu
 
 Both BFS and DFS are commonly used for graph traversal and searching.
 
-The time complexity of both BFS and DFS is O(V + E), where V is the number of vertices and E is the number of edges.
+The time complexity of both BFS and DFS is O(V + E), where V is the number of vertices and E is the number of edge
 
-###Conclusion
+### conclusion
+
 Graph implementation provides an efficient way to represent relationships between different nodes. BFS and DFS are important algorithms for traversing and searching graphs. BFS is useful for level-wise traversal and finding shortest paths in unweighted graphs, while DFS is useful for exploring paths and solving problems such as connectivity and backtracking.
 
 
